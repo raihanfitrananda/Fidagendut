@@ -636,4 +636,3 @@ elif st.session_state.halaman == "simulasi":
                             st.session_state.kuis_selesai = True
                             st.rerun()
  
- 
